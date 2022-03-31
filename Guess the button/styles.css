@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke;
+}
+.winning-message{
+    display: block;
+}
+
+h1 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
